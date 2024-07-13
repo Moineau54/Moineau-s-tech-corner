@@ -41,3 +41,7 @@ You should care about the security of your network because it is your responsibi
 I created this script, first and foremost, to see if my computers were secure. I wanted to know if there were any vulnerabilities on my network that could be exploited by attackers and how to fix them. I also wanted to learn more about Nmap and how it can be used as a vulnerability scanner. Secondly, I used it as challenge to myself, to see if I could create a useful tool that could help me improve the security of my network.
 
 A big shoutout to the creators of Nmap and the vulners.nse script for providing such a powerful tool for security professionals and to my friend [ByteOtter](https://github.com/ByteOtter) for helping me with the script, he is a great guy and a great programmer.
+
+## Warning
+
+This script is currently a work in progress, so beware of bugs or the script not working properly for the time being.
