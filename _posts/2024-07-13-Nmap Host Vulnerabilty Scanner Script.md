@@ -3,7 +3,7 @@ title: "Nmap Host Vulnerabilty Scanner Script"
 date: 2024-07-13
 ---
 
-![Screenshot](images/2024-07-13/Screenshot_2024-07-13_02_47_52.png)
+![alt](images/2024-07-13/Screenshot_2024-07-13_02_47_52.png)
 
 What a strange name, right?\
 Nmap, what is that?\
