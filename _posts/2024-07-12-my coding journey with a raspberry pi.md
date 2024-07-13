@@ -13,7 +13,7 @@ All you need is a Raspberry Pi, a power supply, an SD card, an SD card reader, a
 
 ## 2. my first time using the Raspberry Pi
 
-After setting up the Raspberry Pi, I connected it to a monitor, keyboard, and mouse. I was able to boot up the Raspberry Pi and start using it right away. 
+After setting up the Raspberry Pi, I connected it to a monitor, keyboard, and mouse. I was able to boot up the Raspberry Pi and start using it right away.
 First, I updated the system by running the following commands:
 
 ```bash
