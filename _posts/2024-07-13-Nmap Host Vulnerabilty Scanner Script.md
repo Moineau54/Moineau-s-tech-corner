@@ -22,7 +22,7 @@ Nmap is a free and open-source network scanner created by Gordon Lyon. It is use
 
 A vulnerability scanner is a computer program designed to assess computers, computer systems, networks, or applications for weaknesses. These weaknesses can range from simple configuration errors to critical vulnerabilities in software. Vulnerability scanners are used by security professionals to identify security holes that could be exploited by attackers.
 
-In this case, I will be using Nmap as a vulnerability scanner to identify weaknesses in a target host by scanning for hosts on the current network and then scanning those hosts for vulnerabilities by using Nmap scripts. In this case, I automated the calls with the vulners.nse script. This script uses the Vulners API to check for vulnerabilities in the target host.
+In this case, I will be using Nmap as a vulnerability scanner to identify weaknesses in a target host by scanning for hosts on the current network and then scanning those hosts for vulnerabilities by using Nmap scripts. With my script, I automated the calls with the vulners.nse script. This script uses the Vulners API to check for vulnerabilities in the target host.
 
 ## 3. The script
 
