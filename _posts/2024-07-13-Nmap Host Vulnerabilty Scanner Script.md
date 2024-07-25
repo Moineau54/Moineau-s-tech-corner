@@ -3,6 +3,8 @@ title: "Nmap Host Vulnerabilty Scanner Script"
 date: 2024-07-13
 ---
 
+[French version](2024-07-13-Nmap%20Host%20Vulnerability%20Scanner%20Script%20fr.md) | [German version](2024-07-13-Nmap%20Host%20Vulnerability%20Scanner%20Script%20de.md)
+
 # Nmap Host Vulnerability Scanner Script
 
 What a strange name, right?\
