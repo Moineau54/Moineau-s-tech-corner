@@ -3,7 +3,7 @@ title: "Nmap Host Vulnerabilty Scanner Script"
 date: 2024-07-13
 ---
 
-[French version](2024-07-13-Nmap%20Host%20Vulnerability%20Scanner%20Script%20fr.md) | [German version](2024-07-13-Nmap%20Host%20Vulnerability%20Scanner%20Script%20de.md)
+[French version](2024-07-13-Nmap%20Host%20Vulnerability%20Scanner%20Script%20fr.md) | [German version](https://moineau54.github.io/Moineau-s-german-tech-corner/2024/07/12/Meine-Programmierreise-mit-einem-Raspberry-Pi.html)
 
 # Nmap Host Vulnerability Scanner Script
 
