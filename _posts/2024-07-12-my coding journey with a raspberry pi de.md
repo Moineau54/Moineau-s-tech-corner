@@ -1,5 +1,9 @@
-[Englische Version](/2024-07-12-my coding journey with a raspberry pi.md) | [Französische Version](2024-07-12-my coding journey with a raspberry pi fr.md)
+---
+title: "Meine Programmierreise mit einem Raspberry Pi"
+date: 2024-07-12
+---
 
+[Englische Version](2024-07-12-my%20coding%20journey%20with%20a%20raspberry%20pi.md) | [Französische Version](2024-07-12-my%20coding%20journey%20with%20a%20raspberry%20pi%20fr.md)
 Raspberry Pis sind kleine, kreditkartengroße Computer, die für eine Vielzahl von Projekten verwendet werden können. Sie sind kostengünstig, einfach zu bedienen und können für eine breite Palette von Anwendungen eingesetzt werden.
 
 Vor kurzem konnte ich aus verschiedenen Gründen meinen Hauptcomputer nicht benutzen, also entschied ich mich, meinen Raspberry Pi eine Weile als Hauptcomputer zu verwenden. Für diese Aufgabe wählte ich einen Raspberry Pi 5 mit 4 GB RAM und einer 128 GB SD-Karte. Ich installierte das Betriebssystem [Kali Linux](https://www.kali.org/docs/introduction/) darauf, da ich mich für Cybersicherheit interessiere. Hier ist, was ich während meiner Reise gelernt habe:

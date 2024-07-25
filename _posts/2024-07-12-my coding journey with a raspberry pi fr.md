@@ -1,4 +1,9 @@
-[Version anglaise](2024-07-12-my coding journey with a raspberry pi.md) | [Version allemande](2024/07/12/my%20coding%20journey%20with%20a%20raspberry%20pi%20de.md)
+---
+title: "Mes aventures dans la programmation avec un Raspberry Pi"
+date: 2024-07-12
+---
+
+[Version anglaise](2024-07-12-my%20coding%20journey%20with%20a%20raspberry%20pi.md) | [Version allemande](2024-07-12-my%20coding%20journey%20with%20a%20raspberry%20pi%20de.md)
 
 Les Raspberry Pi sont de petits ordinateurs de la taille d'une carte de crédit qui peuvent être utilisés pour une variété de projets. Ils sont peu coûteux, faciles à utiliser et peuvent être employés pour un large éventail d'applications.
 
