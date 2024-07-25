@@ -3,7 +3,7 @@ title: "my coding journey with a raspberry pi"
 date: 2024-07-12
 ---
 
-[French version](2024-07-12-my%20coding%20journey%20with%20a%20raspberry%20pi%20fr.md) | [German version](https://moineau54.github.io/Moineau-s-german-tech-corner/2024/07/12/Meine-Programmierreise-mit-einem-Raspberry-Pi.html)
+[French version](https://moineau54.github.io/Moineau-s-french-tech-corner/2024/07/12/Mes-aventures-dans-la-programmation-avec-un-Raspberry-Pi.html) | [German version](https://moineau54.github.io/Moineau-s-german-tech-corner/2024/07/12/Meine-Programmierreise-mit-einem-Raspberry-Pi.html)
 
 Raspberry Pis are small, credit card-sized computers that can be used for a variety of projects. They are inexpensive, easy to use, and can be used for a wide range of applications.
 
