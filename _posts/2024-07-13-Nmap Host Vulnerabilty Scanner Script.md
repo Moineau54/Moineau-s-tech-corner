@@ -5,7 +5,8 @@ date: 2024-07-13
 
 [French version](https://moineau54.github.io/Moineau-s-french-tech-corner/2024/07/12/Mes-aventures-dans-la-programmation-avec-un-Raspberry-Pi.html) | [German version](https://moineau54.github.io/Moineau-s-german-tech-corner/2024/07/12/Meine-Programmierreise-mit-einem-Raspberry-Pi.html)
 
-![Screenshot](assets/img/Nmapy_screenshot_nr1.png)\ 
+<img src="assets/img/Nmapy_screenshot_nr1.png">
+
 # Nmap Host Vulnerability Scanner Script
 
 What a strange name, right?\
