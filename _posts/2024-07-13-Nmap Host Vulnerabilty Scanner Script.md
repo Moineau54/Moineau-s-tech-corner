@@ -7,6 +7,7 @@ date: 2024-07-13
 
 <img src="assets/img/Nmapy_screenshot_nr1.png" width="700">
 
+
 # Nmap Host Vulnerability Scanner Script
 
 What a strange name, right?\
