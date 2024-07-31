@@ -13,11 +13,9 @@ I'm a young guy who is interested in **everything** IT.
 
 <details> <summary><img src="logos/mail_icon.png" alt="mailto:Felixsblog@proton.me" width="30"></summary> 
 
-```bash
 
 Felixsblog@proton.me
 
-```
 </details> 
 
 ---
