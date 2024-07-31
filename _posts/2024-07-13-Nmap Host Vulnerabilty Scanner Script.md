@@ -34,7 +34,7 @@ In this case, I will be using Nmap as a vulnerability scanner to identify weakne
 
 The [script](https://github.com/Moineau54/nhvss_python) I created is a simple python script that first scans the network for hosts and then scans those hosts for vulnerabilities using the vulners.nse script.
 
-
+<img src="assets/img/Nmapy_screenshot_nr1.png" width="">
 
 ## So ... why did I create this script?
 
