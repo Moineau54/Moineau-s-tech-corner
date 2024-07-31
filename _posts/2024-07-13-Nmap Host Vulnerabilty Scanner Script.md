@@ -34,6 +34,8 @@ In this case, I will be using Nmap as a vulnerability scanner to identify weakne
 
 The [script](https://github.com/Moineau54/nhvss_python) I created is a simple python script that first scans the network for hosts and then scans those hosts for vulnerabilities using the vulners.nse script.
 
+<img src="assets/img/Nmapy_screenshot_nr1.png" width="">
+
 ## So ... why did I create this script?
 
 I created this script to automate the process of scanning for vulnerabilities on my home network. I wanted to know if there were any vulnerabilities on my network that could be exploited by attackers and how to fix them. Fortunately, the vulners.nse script provides detailed information about the vulnerabilities it finds, including the CVE number, the severity of the vulnerability, and a link to its entry on the Vulners website. This information is very useful for security professionals who need to assess the security of their network and take appropriate action to fix any vulnerabilities that are found.
