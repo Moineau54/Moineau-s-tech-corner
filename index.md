@@ -16,10 +16,11 @@ I'm a young guy who is interested in **everything** IT.
         <a href="https://www.linkedin.com/in/f%C3%A9lix-juill%C3%A9-93699831b/"><img src="logos/linkedin_logo.png" alt="https://www.linkedin.com/in/f%C3%A9lix-juill%C3%A9-93699831b/" width="30"></a>
 </details>
 
-<details> <summary><img src="logos/mail_icon.png" alt="mailto:Felixsblog@proton.me" width="30"></summary> 
+<details> 
+    <summary><img src="logos/mail_icon.png" alt="mailto:Felixsblog@proton.me" width="30"></summary> 
 
 
-Felixsblog@proton.me
+    Felixsblog@proton.me
 
 </details> 
 
