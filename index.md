@@ -7,7 +7,7 @@ title: Welcome to my blog
 Hello everyone, I'm [Moineau54](https://github.com/Moineau54).\
 I'm a young guy who is interested in **everything** IT.
 
-[Deutsch / German](https://moineau54.github.io/Moineau-s-german-tech-corner/) | [Français / French](https://moineau54.github.io/Moineau-s-french-tech-corner/)
+
 
 <details>
     <summary>Social media accounts and git accounts</summary>
